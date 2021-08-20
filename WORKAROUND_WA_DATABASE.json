@@ -1,14 +1,14 @@
 [
 	{
-		"Name": "Zoom/Phone - Wednesday - 6:00 PM (CET/CEST Berlin,Paris,Rome) - Step Study",
-		"Times": "Wednesday 6:00 PM",
-		"Timezone": "Europe/Paris",
-		"URL": "https://us02web.zoom.us/j/993524217?pwd=cVBwYk9kUGo0SktaOGEzN0J5aG92Zz09",
-		"Phone": "",
-		"Access Code": "",
-		"Email": "waonwednesday@gmail.com",
-		"Types": "Closed,\nStep Study,\n* English *",
-		"Formats": "Video,\nAudio,\nTelephone",
-		"Notes": "More information available at https://workaholics-anonymous.org/meetings/13-meeting-details?meetingid=a043900000bkMNRAA2\n\nMeeting ID: 993 524 217\r\nPasscode: 122652\r\nPhone: +44 203 481 5240 (UK)\r\nOther International numbers available:\r\nhttps://us02web.zoom.us/u/kcnTZqzWhD"
+		"name": "Zoom/Phone - Wednesday - 6:00 PM (CET/CEST Berlin,Paris,Rome) - Step Study",
+		"times": "Wednesday 6:00 PM",
+		"timezone": "Europe/Paris",
+		"url": "https://us02web.zoom.us/j/993524217?pwd=cVBwYk9kUGo0SktaOGEzN0J5aG92Zz09",
+		"phone": "",
+		"access_code": "",
+		"email": "waonwednesday@gmail.com",
+		"types": "Closed,\nStep Study,\n* English *",
+		"formats": "Video,\nAudio,\nTelephone",
+		"notes": "More information available at https://workaholics-anonymous.org/meetings/13-meeting-details?meetingid=a043900000bkMNRAA2\n\nMeeting ID: 993 524 217\r\nPasscode: 122652\r\nPhone: +44 203 481 5240 (UK)\r\nOther International numbers available:\r\nhttps://us02web.zoom.us/u/kcnTZqzWhD"
 	}
 ]
